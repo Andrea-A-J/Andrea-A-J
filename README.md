@@ -2,7 +2,7 @@
 I’m a student of Microcomputer Systems and Networks, focused on Linux environments.<br>I’m learning Bash and Python to automate tasks and build useful scripts <br>for GNU/Linux systems.<br>I have basic knowledge of HTML and CSS, but I’m more interested<br>in systems, networking and cybersecurity than in web development.<br>I enjoy learning how systems behave, break, and can be improved.
 
 
-## 🌐 Socials:
+## 🌐 LinkedIn:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrea-anover-tecnica-de-sistemas-y-redes/) 
 
 # 💻 Tech Stack:
